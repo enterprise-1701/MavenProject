@@ -56,12 +56,12 @@
       <![CDATA[TearDown Complete]]>
     </line>
   </reporter-output>
-  <suite name="Test2 - Suite" duration-ms="78132" started-at="2016-04-21T19:29:34Z" finished-at="2016-04-21T19:30:52Z">
+  <suite name="Test2 - Suite" duration-ms="84008" started-at="2016-04-21T21:46:23Z" finished-at="2016-04-21T21:47:47Z">
     <groups>
     </groups>
-    <test name="ChromeTest" duration-ms="78132" started-at="2016-04-21T19:29:34Z" finished-at="2016-04-21T19:30:52Z">
+    <test name="ChromeTest" duration-ms="84008" started-at="2016-04-21T21:46:23Z" finished-at="2016-04-21T21:47:47Z">
       <class name="automationFramework.TestCases.ActivitiesTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.ActivitiesTest@64bfbc86]" name="setUp" is-config="true" duration-ms="6421" started-at="2016-04-21T12:29:52Z" finished-at="2016-04-21T12:29:59Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.ActivitiesTest@64bfbc86]" name="setUp" is-config="true" duration-ms="5307" started-at="2016-04-21T14:46:41Z" finished-at="2016-04-21T14:46:46Z">
           <params>
             <param index="0">
               <value>
@@ -78,11 +78,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.ActivitiesTest@64bfbc86]" name="landingTest" duration-ms="4312" started-at="2016-04-21T12:29:59Z" finished-at="2016-04-21T12:30:03Z">
+        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.ActivitiesTest@64bfbc86]" name="landingTest" duration-ms="3793" started-at="2016-04-21T14:46:46Z" finished-at="2016-04-21T14:46:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.ActivitiesTest@64bfbc86]" name="tearDown" is-config="true" duration-ms="3248" started-at="2016-04-21T12:30:03Z" finished-at="2016-04-21T12:30:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.ActivitiesTest@64bfbc86]" name="tearDown" is-config="true" duration-ms="3935" started-at="2016-04-21T14:46:50Z" finished-at="2016-04-21T14:46:54Z">
           <reporter-output>
             <line>
               <![CDATA[TearDown Complete]]>
@@ -91,7 +91,7 @@
         </test-method> <!-- tearDown -->
       </class> <!-- automationFramework.TestCases.ActivitiesTest -->
       <class name="automationFramework.TestCases.CustomersTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.CustomersTest@25bbe1b6]" name="setUp" is-config="true" duration-ms="5449" started-at="2016-04-21T12:30:19Z" finished-at="2016-04-21T12:30:24Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.CustomersTest@25bbe1b6]" name="setUp" is-config="true" duration-ms="5257" started-at="2016-04-21T14:47:07Z" finished-at="2016-04-21T14:47:12Z">
           <params>
             <param index="0">
               <value>
@@ -108,11 +108,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.CustomersTest@25bbe1b6]" name="landingTest" duration-ms="3626" started-at="2016-04-21T12:30:24Z" finished-at="2016-04-21T12:30:28Z">
+        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.CustomersTest@25bbe1b6]" name="landingTest" duration-ms="3851" started-at="2016-04-21T14:47:12Z" finished-at="2016-04-21T14:47:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.CustomersTest@25bbe1b6]" name="tearDown" is-config="true" duration-ms="2552" started-at="2016-04-21T12:30:28Z" finished-at="2016-04-21T12:30:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.CustomersTest@25bbe1b6]" name="tearDown" is-config="true" duration-ms="3072" started-at="2016-04-21T14:47:16Z" finished-at="2016-04-21T14:47:19Z">
           <reporter-output>
             <line>
               <![CDATA[TearDown Complete]]>
@@ -121,7 +121,7 @@
         </test-method> <!-- tearDown -->
       </class> <!-- automationFramework.TestCases.CustomersTest -->
       <class name="automationFramework.TestCases.InventoryTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.InventoryTest@55d56113]" name="setUp" is-config="true" duration-ms="4476" started-at="2016-04-21T12:30:31Z" finished-at="2016-04-21T12:30:35Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.InventoryTest@55d56113]" name="setUp" is-config="true" duration-ms="6224" started-at="2016-04-21T14:47:19Z" finished-at="2016-04-21T14:47:25Z">
           <params>
             <param index="0">
               <value>
@@ -138,11 +138,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.InventoryTest@55d56113]" name="landingTest" duration-ms="3082" started-at="2016-04-21T12:30:35Z" finished-at="2016-04-21T12:30:38Z">
+        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.InventoryTest@55d56113]" name="landingTest" duration-ms="5467" started-at="2016-04-21T14:47:25Z" finished-at="2016-04-21T14:47:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.InventoryTest@55d56113]" name="tearDown" is-config="true" duration-ms="2232" started-at="2016-04-21T12:30:38Z" finished-at="2016-04-21T12:30:40Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.InventoryTest@55d56113]" name="tearDown" is-config="true" duration-ms="1862" started-at="2016-04-21T14:47:30Z" finished-at="2016-04-21T14:47:32Z">
           <reporter-output>
             <line>
               <![CDATA[TearDown Complete]]>
@@ -151,7 +151,7 @@
         </test-method> <!-- tearDown -->
       </class> <!-- automationFramework.TestCases.InventoryTest -->
       <class name="automationFramework.TestCases.HomeTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.HomeTest@148080bb]" name="setUp" is-config="true" duration-ms="6895" started-at="2016-04-21T12:29:34Z" finished-at="2016-04-21T12:29:41Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.HomeTest@148080bb]" name="setUp" is-config="true" duration-ms="6720" started-at="2016-04-21T14:46:23Z" finished-at="2016-04-21T14:46:30Z">
           <params>
             <param index="0">
               <value>
@@ -168,11 +168,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.HomeTest@148080bb]" name="landingTest" duration-ms="6870" started-at="2016-04-21T12:29:41Z" finished-at="2016-04-21T12:29:48Z">
+        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.HomeTest@148080bb]" name="landingTest" duration-ms="6308" started-at="2016-04-21T14:46:30Z" finished-at="2016-04-21T14:46:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.HomeTest@148080bb]" name="tearDown" is-config="true" duration-ms="4656" started-at="2016-04-21T12:29:48Z" finished-at="2016-04-21T12:29:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.HomeTest@148080bb]" name="tearDown" is-config="true" duration-ms="5116" started-at="2016-04-21T14:46:36Z" finished-at="2016-04-21T14:46:41Z">
           <reporter-output>
             <line>
               <![CDATA[TearDown Complete]]>
@@ -181,7 +181,7 @@
         </test-method> <!-- tearDown -->
       </class> <!-- automationFramework.TestCases.HomeTest -->
       <class name="automationFramework.TestCases.CasesTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.CasesTest@dc24521]" name="setUp" is-config="true" duration-ms="5744" started-at="2016-04-21T12:30:06Z" finished-at="2016-04-21T12:30:12Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.CasesTest@dc24521]" name="setUp" is-config="true" duration-ms="5630" started-at="2016-04-21T14:46:54Z" finished-at="2016-04-21T14:47:00Z">
           <params>
             <param index="0">
               <value>
@@ -198,11 +198,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.CasesTest@dc24521]" name="landingTest" duration-ms="3246" started-at="2016-04-21T12:30:12Z" finished-at="2016-04-21T12:30:15Z">
+        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.CasesTest@dc24521]" name="landingTest" duration-ms="3693" started-at="2016-04-21T14:47:00Z" finished-at="2016-04-21T14:47:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.CasesTest@dc24521]" name="tearDown" is-config="true" duration-ms="3473" started-at="2016-04-21T12:30:15Z" finished-at="2016-04-21T12:30:19Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.CasesTest@dc24521]" name="tearDown" is-config="true" duration-ms="3123" started-at="2016-04-21T14:47:03Z" finished-at="2016-04-21T14:47:07Z">
           <reporter-output>
             <line>
               <![CDATA[TearDown Complete]]>
@@ -211,7 +211,7 @@
         </test-method> <!-- tearDown -->
       </class> <!-- automationFramework.TestCases.CasesTest -->
       <class name="automationFramework.TestCases.TransactionsTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.TransactionsTest@64bf3bbf]" name="setUp" is-config="true" duration-ms="5712" started-at="2016-04-21T12:30:40Z" finished-at="2016-04-21T12:30:46Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:automationFramework.TestCases.TransactionsTest@64bf3bbf]" name="setUp" is-config="true" duration-ms="5108" started-at="2016-04-21T14:47:32Z" finished-at="2016-04-21T14:47:37Z">
           <params>
             <param index="0">
               <value>
@@ -228,11 +228,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.TransactionsTest@64bf3bbf]" name="landingTest" duration-ms="3713" started-at="2016-04-21T12:30:46Z" finished-at="2016-04-21T12:30:50Z">
+        <test-method status="PASS" signature="landingTest()[pri:0, instance:automationFramework.TestCases.TransactionsTest@64bf3bbf]" name="landingTest" duration-ms="7050" started-at="2016-04-21T14:47:37Z" finished-at="2016-04-21T14:47:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.TransactionsTest@64bf3bbf]" name="tearDown" is-config="true" duration-ms="2398" started-at="2016-04-21T12:30:50Z" finished-at="2016-04-21T12:30:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automationFramework.TestCases.TransactionsTest@64bf3bbf]" name="tearDown" is-config="true" duration-ms="2467" started-at="2016-04-21T14:47:45Z" finished-at="2016-04-21T14:47:47Z">
           <reporter-output>
             <line>
               <![CDATA[TearDown Complete]]>

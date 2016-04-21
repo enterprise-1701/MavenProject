@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.246">
+           time="3.693">
   <properties />
   
   
-            <testcase name="landingTest" time="3.246" classname="automationFramework.TestCases.CasesTest" />
+            <testcase name="landingTest" time="3.693" classname="automationFramework.TestCases.CasesTest" />
       
 </testsuite>

@@ -4843,3 +4843,525 @@ com.gargoylesoftware.htmlunit.FailingHttpStatusCodeException: 404 Not Found for 
 2016-04-21 12:30:50,869 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
 2016-04-21 12:30:50,869 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
 2016-04-21 12:30:51,039 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:23,805 INFO  [Logger] Logging Started 
+2016-04-21 14:46:24,097 INFO  [Logger] Current OS is: Windows 7 Home Premium 
+2016-04-21 14:46:36,036 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:36,513 INFO  [Logger] TearDown Complete 
+2016-04-21 14:46:36,749 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:37,908 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:37,909 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,910 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,916 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,916 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,919 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,919 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,921 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,922 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,924 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,928 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,934 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,935 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,936 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,936 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,938 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,939 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,951 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,951 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,957 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,957 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,959 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,960 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,963 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,964 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,965 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,965 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,970 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,971 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,975 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,976 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,977 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:37,978 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:37,983 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:37,989 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:37,997 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:37,998 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:37,999 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,016 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,017 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,381 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,381 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,382 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,385 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,385 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,389 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,393 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,394 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,394 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,397 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,405 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,407 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,407 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,408 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,408 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,410 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,411 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,415 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,416 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,429 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,429 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,435 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,436 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,441 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,441 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,442 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,442 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,443 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,443 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,444 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,444 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,445 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,445 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,452 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,454 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,455 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,456 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,457 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:38,459 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:38,459 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:38,756 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:39,035 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:41,669 INFO  [Logger] Logging Started 
+2016-04-21 14:46:41,721 INFO  [Logger] Current OS is: Windows 7 Home Premium 
+2016-04-21 14:46:50,362 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:50,597 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:50,598 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,600 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,601 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,601 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,602 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,602 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,603 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,603 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,606 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,606 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,617 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,618 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,618 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,618 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,619 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,619 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,621 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,621 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,626 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,626 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,629 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,629 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,630 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,630 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,631 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,631 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,631 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,631 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,632 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,632 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,633 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,634 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,636 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:50,638 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:50,639 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:50,639 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:50,640 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:50,641 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:50,642 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:50,729 INFO  [Logger] TearDown Complete 
+2016-04-21 14:46:50,933 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:51,479 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:51,480 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,480 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,483 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,485 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,488 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,488 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,490 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,490 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,494 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,495 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,497 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,498 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,498 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,498 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,510 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,510 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,513 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,513 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,515 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,516 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,516 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,517 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,519 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,519 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,520 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,520 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,520 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,521 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,521 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,522 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,523 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,523 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,527 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:51,530 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:51,531 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:51,532 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:51,534 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:46:51,535 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:46:51,535 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:46:51,697 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:51,856 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:46:54,782 INFO  [Logger] Logging Started 
+2016-04-21 14:46:54,834 INFO  [Logger] Current OS is: Windows 7 Home Premium 
+2016-04-21 14:47:03,751 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:03,936 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:03,936 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,937 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,938 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,938 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,939 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,939 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,941 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,941 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,942 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,944 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,948 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,949 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,949 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,950 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,968 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,969 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,973 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,974 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,978 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,978 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,979 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,980 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,981 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,981 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,986 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,986 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,987 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,987 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,987 INFO  [Logger] TearDown Complete 
+2016-04-21 14:47:03,988 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,988 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,990 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:03,990 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:03,993 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:03,996 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:03,997 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:03,998 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:03,999 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,026 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,027 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,212 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:04,463 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:04,644 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,645 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,645 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,646 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,646 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,647 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,648 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,648 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,648 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,649 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,649 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,650 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,650 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,650 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,650 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,651 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,652 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,679 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,682 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,684 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,684 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,685 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,685 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,686 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,686 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,687 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,687 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,688 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,688 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,689 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,689 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,691 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,691 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,694 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,695 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,696 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,702 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,703 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:04,706 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:04,706 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:04,966 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:07,162 INFO  [Logger] Logging Started 
+2016-04-21 14:47:07,222 INFO  [Logger] Current OS is: Windows 7 Home Premium 
+2016-04-21 14:47:16,100 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:16,219 INFO  [Logger] TearDown Complete 
+2016-04-21 14:47:16,597 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:16,758 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:16,758 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,758 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,760 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,760 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,761 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,761 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,761 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,761 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,762 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,762 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,764 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,764 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,764 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,765 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,768 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,768 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,769 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,769 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,771 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,771 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,772 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,772 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,773 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,773 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:16,773 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:16,773 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,054 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,054 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,058 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,058 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,060 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,060 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,087 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,089 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,090 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,091 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,091 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,093 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,093 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,247 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,247 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,247 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,249 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,249 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,250 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,251 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,252 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,252 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,253 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,253 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,254 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,254 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,254 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,254 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,256 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,256 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,257 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,257 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,260 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,260 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,260 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,261 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,261 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,261 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,262 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,262 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,262 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,264 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,265 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,265 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,270 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,270 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,274 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,276 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,276 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,277 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,277 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:17,278 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:17,279 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:17,619 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:17,641 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:19,341 INFO  [Logger] Logging Started 
+2016-04-21 14:47:19,393 INFO  [Logger] Current OS is: Windows 7 Home Premium 
+2016-04-21 14:47:30,450 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:30,589 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:30,589 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,589 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,590 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,590 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,591 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,591 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,592 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,592 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,593 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,593 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,594 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,594 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,594 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,594 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,595 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,596 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,597 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,597 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,605 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,605 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,616 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,616 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,617 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,618 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,618 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,618 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,618 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,618 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,619 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,619 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,620 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,620 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,623 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:30,624 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:30,625 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:30,625 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:30,626 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:30,628 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:30,628 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:30,982 INFO  [Logger] TearDown Complete 
+2016-04-21 14:47:31,205 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:32,089 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:32,201 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:32,202 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,202 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,203 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,204 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,204 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,204 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,205 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,205 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,206 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,207 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,207 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,208 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,208 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,208 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,209 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,209 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,210 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,211 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,213 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,214 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,214 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,215 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,216 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,216 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,216 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,216 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,216 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,217 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,217 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,218 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,219 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,219 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,221 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:32,223 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:32,224 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:32,224 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:32,225 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:32,226 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:32,226 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:32,432 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:32,874 INFO  [Logger] Logging Started 
+2016-04-21 14:47:32,934 INFO  [Logger] Current OS is: Windows 7 Home Premium 
+2016-04-21 14:47:44,810 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:44,984 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:44,984 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,984 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,985 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,985 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,986 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,986 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,987 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,987 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,987 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,988 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,988 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,989 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,990 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,990 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,991 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,991 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,993 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,993 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,995 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,995 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,997 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,997 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,998 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,998 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,999 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,999 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:44,999 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:44,999 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,000 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,000 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,001 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,001 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,003 INFO  [Logger] TearDown Complete 
+2016-04-21 14:47:45,007 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,009 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,009 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,010 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,010 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,017 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,017 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,416 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:45,515 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
+2016-04-21 14:47:45,610 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1419] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,611 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:1467] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,611 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:1467] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,613 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2203] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,613 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2203] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,614 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2543] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,615 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2543] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,615 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:2616] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,615 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:2616] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,616 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3194] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,616 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3194] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,617 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3701] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,617 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3701] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,617 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:3761] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,617 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:3761] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,618 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4196] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,618 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4196] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,619 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:4960] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,620 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:4960] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,621 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6103] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,621 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6103] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,647 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6338] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,647 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6338] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,648 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6781] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,648 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6781] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,655 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:6938] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,655 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:6938] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,656 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7010] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,656 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7010] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,657 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [1:7352] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,657 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [1:7352] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,658 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:199] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,658 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [2:199] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:45,661 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:1691] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,662 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:2949] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,664 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3481] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,664 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:3969] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,665 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [2:4480] Error in expression; ':' found after identifier "progid". 
+2016-04-21 14:47:45,666 WARN  [DefaultCssErrorHandler] CSS error: 'http://www.google.com/' [3:117] Error in style rule. (Invalid token "*". Was expecting one of: <EOF>, <S>, <IDENT>, "}", ";".) 
+2016-04-21 14:47:45,666 WARN  [DefaultCssErrorHandler] CSS warning: 'http://www.google.com/' [3:117] Ignoring the following declarations in this rule. 
+2016-04-21 14:47:46,000 WARN  [IncorrectnessListenerImpl] Obsolete content type encountered: 'text/javascript'. 
