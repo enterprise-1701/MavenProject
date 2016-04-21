@@ -1,0 +1,17 @@
+<suite name="Test2 - Suite" >
+	<test name ="ChromeTest">
+	<parameter name="browser" value="chrome.exe" />
+		<classes>
+		    <class name="automationFramework.TestCases.HomeTest" />
+		    <class name="automationFramework.TestCases.ActivitiesTest" />
+		    <class name="automationFramework.TestCases.CasesTest" />
+		    <class name="automationFramework.TestCases.CustomersTest" />
+		    <class name="automationFramework.TestCases.InventoryTest" />
+		    <class name="automationFramework.TestCases.TransactionsTest" />
+		</classes>
+	</test>
+		<listeners>
+       <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+</suite>
