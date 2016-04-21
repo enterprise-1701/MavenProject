@@ -22,6 +22,7 @@ public class ActivitiesTest {
 
 	private static Logger Log = Logger.getLogger(Logger.class.getName());
 	static String RESPONSE1 = "Tolling";
+	static String RESPONSE2 = "Tolling2";
 	static WebDriver driver;
 	static String browser;
 
